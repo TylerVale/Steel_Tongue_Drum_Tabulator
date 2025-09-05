@@ -3,3 +3,11 @@ A simple program to convert MIDI files into tabs for a cheap steel tongue drum, 
 
 Requires PrettyMIDI (pip install mido pretty_midi)
 
+Instructions:
+
+Program accepts a MIDI file as an argument from the command line 
+* Create tabulator.py
+* Place MIDI file of choosing in same directory 
+* From CLI: python tabulator.py your_midi_file.mid
+* Outputs the results in a .txt file
+
